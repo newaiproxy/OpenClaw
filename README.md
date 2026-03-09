@@ -5,6 +5,8 @@
 
 这时候，强烈推荐你直接上 **神马中转API（api.whatai.cc）**，用它来配置 **OpenClaw**，真的会省掉一大半精力。
 
+![OpenClaw（龙虾AI）推荐配置低价稳定神马中转API_WINDOWS完整安装配置教程_完全免费！小白都能看懂的openclaw安装教程](https://pic.imgdd.cc/item/69ae972f9487eb41ca3a46fa.jpg)
+
 ---
 
 ## 为什么用「神马中转API」来配 OpenClaw？
